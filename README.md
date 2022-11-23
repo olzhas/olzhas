@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-
+Telegram channel - https://t.me/faire_nough
+Youtube channel - http://youtube.com/@OlzhasA
+<!--
 | Number of visitors | ![Visitor Count](https://profile-counter.glitch.me/olzhas/count.svg) |
 |--------------------|----------------------------------------------------------------------|
 
 
-<!--
+
 **olzhas/olzhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
