@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Telegram channel - https://t.me/faire_nough
+Telegram channel - https://t.me/s/faire_nough
 
 Youtube channel - http://youtube.com/@OlzhasA
 <!--
