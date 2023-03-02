@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am Olzhas.
+
+Currently, I work at Christie Digital as a C++ developer.
+My background is in Robotics. I am interested in Motion Planing, Control Theory and Math in general.
+
+I have a telegram channel were I post things I found interestining.
 
 - Telegram channel - https://t.me/s/faire_nough
 - Youtube channel - http://youtube.com/@OlzhasA
