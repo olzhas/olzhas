@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Olzhas.
+I am Olzhas!
 
 Currently, I work at Christie Digital as a C++ developer.
 My background is in Robotics. I am interested in Motion Planing, Control Theory and Math in general.
