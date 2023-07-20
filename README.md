@@ -16,10 +16,10 @@ I have a telegram channel were I post things I found interestining.
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=olzhas&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats-olzhas.vercel.app/api/?username=olzhas&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
 
   <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=olzhas&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats-olzhas.vercel.app/api/top-langs/?username=olzhas&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true" />
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@ I have a telegram channel were I post things I found interestining.
 | Number of visitors | ![Visitor Count](https://profile-counter.glitch.me/olzhas/count.svg) |
 |--------------------|----------------------------------------------------------------------|
 
-
+http:///
 
 **olzhas/olzhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
