@@ -13,6 +13,7 @@ I have a telegram channel were I post things I found interestining.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olzhas" alt="olzhas" /></a> </p>
 
+<!--
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -23,6 +24,7 @@ I have a telegram channel were I post things I found interestining.
     </td>
   </tr>
 </table>
+-->
 
 <!--
 | Number of visitors | ![Visitor Count](https://profile-counter.glitch.me/olzhas/count.svg) |
