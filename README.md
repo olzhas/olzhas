@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Olzhas!
 
-Currently, I work at Christie Digital as a software developer.
+I currently work at Ghalam LLP as a software developer.
 My background is in Robotics. I am interested in Motion Planing, Control Theory and Math in general.
 
 I have a telegram channel were I post things I found interestining.
